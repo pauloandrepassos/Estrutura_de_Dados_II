@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/paulo/CLionProjects/ArvoreBinaria
+# Install script for directory: C:/Users/paulo/OneDrive/Documentos/Dev/Estrutura_de_Dados_II/ArvoreBinaria
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/paulo/CLionProjects/ArvoreBinaria/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/paulo/OneDrive/Documentos/Dev/Estrutura_de_Dados_II/ArvoreBinaria/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
